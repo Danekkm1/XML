@@ -1,1 +1,10 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+    <Title>Цвет текста кнопки сливается с цветом фона кнопки при наведении курсора на странице услуги</Title>
+    <Environment>Windows 7 Professional Mozilla Firefox Version 95.0.2</Environment>
+    <Precondition>Открыть страницу услуги</Predcondition>
+    <STR>Навести курсор на кнопку получить результат</STR>
+    <AR>Цвет текста кнопки сливается с цветом фона кнопки при наведении курсора</AR>
+    <ER>Цвет текста кнопки становится белым при наведении курсора</ER>
+    <Attachments>Image link<Attachments>
+</user>
